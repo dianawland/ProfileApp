@@ -1,5 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://diana:@D1anawu@learn-node.6mbqp.mongodb.net/myFirstDatabase?
-     retryWrites=true&w=majority"
-
+    "mongoURI":"mongodb+srv://diana:@D1anawu@learn-node.6mbqp.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret":"mysecrettoken"
 }
